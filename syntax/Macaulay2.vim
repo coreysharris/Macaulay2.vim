@@ -7,7 +7,7 @@ if exists("b:current_syntax")
   finish
 endif
 
-echom "Loaded Macaulay2 syntax file"
+"echom "Loaded Macaulay2 syntax file"
 
 syntax keyword M2Keyword if for then else end 
 syntax keyword M2Keyword and break catch continue
